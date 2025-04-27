@@ -21,8 +21,11 @@ Tkinter
 
 ``` cd The-Right-Price ```
 
-``` python3 main.py ```
+``` uv init --python 3.12 ```
 
+``` uv venv ```
+
+``` uv run src/main.py ```
 
 ## Thank you for using this project!
 
