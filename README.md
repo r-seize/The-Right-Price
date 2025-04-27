@@ -1,5 +1,9 @@
 ## Projet
 
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![License](https://img.shields.io/badge/license-GPL%20v3-800080?style=flat-square)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+
 This game was inspired by the French game show "Le Juste Prix", in English The Right Price. Being a big fan of this game, I had fun creating a simple version in Python. You have 1min to find the exact price! 
 
 ![game image](image/game.png)

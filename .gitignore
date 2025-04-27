@@ -1,0 +1,14 @@
+# env files (can opt-in for committing if needed)
+.env*
+
+# env
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+
+# cache
+*.pyc
+*.pyo
+__pycache__/
