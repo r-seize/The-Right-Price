@@ -12,7 +12,7 @@ This game was inspired by the French game show "Le Juste Prix", in English The R
 
 uv (https://docs.astral.sh/uv/)
 
-Python 3. (https://www.python.org/downloads/)
+Python 3.12 (https://www.python.org/downloads/)
 
 Tkinter (https://docs.python.org/3.13/library/tkinter.html)
 
