@@ -1,4 +1,4 @@
-## Projet
+## The Right Price
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-GPL%20v3-800080?style=flat-square)
@@ -10,9 +10,11 @@ This game was inspired by the French game show "Le Juste Prix", in English The R
 
 ## Requirements
 
-Python
+uv (https://docs.astral.sh/uv/)
 
-Tkinter
+Python 3. (https://www.python.org/downloads/)
+
+Tkinter (https://docs.python.org/3.13/library/tkinter.html)
 
 
 ## Usage
